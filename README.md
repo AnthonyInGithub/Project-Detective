@@ -1,6 +1,4 @@
 # -
-ChatGPT推理游戏《代号:推理》Demo
-简介: 
 ChatGPT推理游戏《代号:推理》Demo展示
 鸣谢: 
 美术支持: B站: @Linkieee
